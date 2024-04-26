@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="046bc72d833d0210ce6dcf50ceaad3bd" sys_domain="global" table="x_1115668_loanerde_tush_loaner_request" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-26 10:57:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c46b0b2d833d0210ce6dcf50ceaad349</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1115668_loanerde_tush_loaner_request" name="x_1115668_loanerde_tush_loaner_request" sys_domain="global" view="Default view">046bc72d833d0210ce6dcf50ceaad3bd</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_1115668_loanerde_tush_loaner_request" sys_domain="global" view="Default view">8b750765833d0210ce6dcf50ceaad381</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-26 10:57:01</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-26 10:57:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>806b0b2d833d0210ce6dcf50ceaad34a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1115668_loanerde_tush_loaner_request" name="x_1115668_loanerde_tush_loaner_request" sys_domain="global" view="Default view">046bc72d833d0210ce6dcf50ceaad3bd</sys_ui_form>
+            <sys_ui_section caption="statics" display_value="statics" name="x_1115668_loanerde_tush_loaner_request" sys_domain="global" view="Default view">806bc72d833d0210ce6dcf50ceaad3bc</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-26 10:57:01</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_1115668_loanerde_tush_loaner_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-26 10:57:00</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>046bc72d833d0210ce6dcf50ceaad3bd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1115668_loanerde_tush_loaner_request</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="loanerdemo" source="x_1115668_loanerde">8571076d83f90210ce6dcf50ceaad33c</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="loanerdemo">8571076d83f90210ce6dcf50ceaad33c</sys_scope>
+            <sys_update_name>sys_ui_form_sections_046bc72d833d0210ce6dcf50ceaad3bd</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-26 10:57:00</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
