@@ -4,13 +4,13 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-04-26 10:57:01</sys_created_on>
-            <sys_id>406b0b2d833d0210ce6dcf50ceaad38a</sys_id>
+            <sys_created_on>2024-04-29 05:53:06</sys_created_on>
+            <sys_id>ed92a5a683b14610ce6dcf50ceaad36d</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1115668_loanerde_tush_loaner_request" sys_domain="global" view="Default view">8b750765833d0210ce6dcf50ceaad381</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-04-26 10:57:01</sys_updated_on>
+            <sys_updated_on>2024-04-29 05:53:06</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,13 +18,13 @@
             <element>assigned_to</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-04-26 10:57:01</sys_created_on>
-            <sys_id>c46b0b2d833d0210ce6dcf50ceaad38a</sys_id>
+            <sys_created_on>2024-04-29 05:53:06</sys_created_on>
+            <sys_id>6592a5a683b14610ce6dcf50ceaad36e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1115668_loanerde_tush_loaner_request" sys_domain="global" view="Default view">8b750765833d0210ce6dcf50ceaad381</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-04-26 10:57:01</sys_updated_on>
+            <sys_updated_on>2024-04-29 05:53:06</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -32,13 +32,13 @@
             <element>cmdb_ci</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-04-26 10:57:01</sys_created_on>
-            <sys_id>4c6b0b2d833d0210ce6dcf50ceaad38a</sys_id>
+            <sys_created_on>2024-04-29 05:53:06</sys_created_on>
+            <sys_id>e992a5a683b14610ce6dcf50ceaad36e</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1115668_loanerde_tush_loaner_request" sys_domain="global" view="Default view">8b750765833d0210ce6dcf50ceaad381</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-04-26 10:57:01</sys_updated_on>
+            <sys_updated_on>2024-04-29 05:53:06</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -46,69 +46,69 @@
             <element>active</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-04-26 10:57:01</sys_created_on>
-            <sys_id>c06b0b2d833d0210ce6dcf50ceaad38b</sys_id>
+            <sys_created_on>2024-04-29 05:53:06</sys_created_on>
+            <sys_id>6192a5a683b14610ce6dcf50ceaad36f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1115668_loanerde_tush_loaner_request" sys_domain="global" view="Default view">8b750765833d0210ce6dcf50ceaad381</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-04-26 10:57:01</sys_updated_on>
+            <sys_updated_on>2024-04-29 05:53:06</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>.split</element>
+            <element>priority</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-04-26 10:57:01</sys_created_on>
-            <sys_id>486b0b2d833d0210ce6dcf50ceaad38b</sys_id>
+            <sys_created_on>2024-04-29 05:53:06</sys_created_on>
+            <sys_id>e592a5a683b14610ce6dcf50ceaad36f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1115668_loanerde_tush_loaner_request" sys_domain="global" view="Default view">8b750765833d0210ce6dcf50ceaad381</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-04-26 10:57:01</sys_updated_on>
-            <sys_user/>
-            <type>.split</type>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>priority</element>
-            <position>5</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-04-26 10:57:01</sys_created_on>
-            <sys_id>cc6b0b2d833d0210ce6dcf50ceaad38b</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_1115668_loanerde_tush_loaner_request" sys_domain="global" view="Default view">8b750765833d0210ce6dcf50ceaad381</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-04-26 10:57:01</sys_updated_on>
+            <sys_updated_on>2024-04-29 05:53:06</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>requested_for</element>
-            <position>6</position>
+            <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-04-26 10:57:01</sys_created_on>
-            <sys_id>446b0b2d833d0210ce6dcf50ceaad38c</sys_id>
+            <sys_created_on>2024-04-29 05:53:06</sys_created_on>
+            <sys_id>6d92a5a683b14610ce6dcf50ceaad36f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1115668_loanerde_tush_loaner_request" sys_domain="global" view="Default view">8b750765833d0210ce6dcf50ceaad381</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-04-26 10:57:01</sys_updated_on>
+            <sys_updated_on>2024-04-29 05:53:06</sys_updated_on>
             <sys_user/>
             <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-29 05:53:06</sys_created_on>
+            <sys_id>e192a5a683b14610ce6dcf50ceaad370</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1115668_loanerde_tush_loaner_request" sys_domain="global" view="Default view">8b750765833d0210ce6dcf50ceaad381</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-29 05:53:06</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>start_date</element>
             <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-04-26 10:57:01</sys_created_on>
-            <sys_id>c86b0b2d833d0210ce6dcf50ceaad38c</sys_id>
+            <sys_created_on>2024-04-29 05:53:06</sys_created_on>
+            <sys_id>6992a5a683b14610ce6dcf50ceaad370</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1115668_loanerde_tush_loaner_request" sys_domain="global" view="Default view">8b750765833d0210ce6dcf50ceaad381</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-04-26 10:57:01</sys_updated_on>
+            <sys_updated_on>2024-04-29 05:53:06</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -116,13 +116,13 @@
             <element>end_date</element>
             <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-04-26 10:57:01</sys_created_on>
-            <sys_id>406b0b2d833d0210ce6dcf50ceaad38d</sys_id>
+            <sys_created_on>2024-04-29 05:53:06</sys_created_on>
+            <sys_id>ed92a5a683b14610ce6dcf50ceaad370</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1115668_loanerde_tush_loaner_request" sys_domain="global" view="Default view">8b750765833d0210ce6dcf50ceaad381</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-04-26 10:57:01</sys_updated_on>
+            <sys_updated_on>2024-04-29 05:53:06</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -130,13 +130,69 @@
             <element>item_type</element>
             <position>9</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2024-04-26 10:57:01</sys_created_on>
-            <sys_id>c46b0b2d833d0210ce6dcf50ceaad38d</sys_id>
+            <sys_created_on>2024-04-29 05:53:06</sys_created_on>
+            <sys_id>6592a5a683b14610ce6dcf50ceaad371</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1115668_loanerde_tush_loaner_request" sys_domain="global" view="Default view">8b750765833d0210ce6dcf50ceaad381</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2024-04-26 10:57:01</sys_updated_on>
+            <sys_updated_on>2024-04-29 05:53:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_choice_4</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-29 05:53:06</sys_created_on>
+            <sys_id>e992a5a683b14610ce6dcf50ceaad371</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1115668_loanerde_tush_loaner_request" sys_domain="global" view="Default view">8b750765833d0210ce6dcf50ceaad381</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-29 05:53:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_other</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-29 05:53:06</sys_created_on>
+            <sys_id>6192a5a683b14610ce6dcf50ceaad372</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1115668_loanerde_tush_loaner_request" sys_domain="global" view="Default view">8b750765833d0210ce6dcf50ceaad381</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-29 05:53:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_choice_6</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-29 05:53:06</sys_created_on>
+            <sys_id>e592a5a683b14610ce6dcf50ceaad372</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1115668_loanerde_tush_loaner_request" sys_domain="global" view="Default view">8b750765833d0210ce6dcf50ceaad381</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-29 05:53:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_location_to_be_used</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-29 05:53:06</sys_created_on>
+            <sys_id>6d92a5a683b14610ce6dcf50ceaad372</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_1115668_loanerde_tush_loaner_request" sys_domain="global" view="Default view">8b750765833d0210ce6dcf50ceaad381</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-29 05:53:06</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

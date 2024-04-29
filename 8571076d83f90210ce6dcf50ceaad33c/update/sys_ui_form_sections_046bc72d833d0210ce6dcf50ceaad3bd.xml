@@ -28,6 +28,20 @@
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2024-04-26 10:57:01</sys_updated_on>
         </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-29 05:28:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>68ec51ee83714610ce6dcf50ceaad3da</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1115668_loanerde_tush_loaner_request" name="x_1115668_loanerde_tush_loaner_request" sys_domain="global" view="Default view">046bc72d833d0210ce6dcf50ceaad3bd</sys_ui_form>
+            <sys_ui_section caption="Log" display_value="Log" name="x_1115668_loanerde_tush_loaner_request" sys_domain="global" view="Default view">6cec51ee83714610ce6dcf50ceaad3d7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-29 05:28:11</sys_updated_on>
+        </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_1115668_loanerde_tush_loaner_request</name>
             <roles/>

@@ -10,5 +10,43 @@
         </element>
         <element attributes="encode_utf8=false" label="Requested for" mandatory="true" max_length="32" name="requested_for" reference="sys_user" type="reference"/>
         <element attributes="edge_encryption_enabled=true" label="Start date" mandatory="true" max_length="40" name="start_date" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" default="sc" label="Depot" max_length="40" name="u_choice_4" type="string">
+            <choice>
+                <element inactive="true" inactive_on_update="true" label="Choice 1" sequence="0" value="Choice 1"/>
+                <element inactive_on_update="false" label="New York" sequence="0" value="ny"/>
+                <element inactive="true" inactive_on_update="true" label="Choice 2" sequence="1" value="Choice 2"/>
+                <element inactive_on_update="false" label="London" sequence="1" value="london"/>
+                <element inactive_on_update="false" label="Buenos Aires" sequence="2" value="ba"/>
+                <element inactive="true" inactive_on_update="true" label="Choice 3" sequence="2" value="Choice 3"/>
+                <element inactive_on_update="false" label="Santa Clara" sequence="3" value="sc"/>
+                <element inactive_on_update="false" label="Singapore" sequence="4" value="singapore"/>
+                <element inactive_on_update="false" label="Sydney" sequence="5" value="sydney"/>
+                <element inactive_on_update="false" label="Other" sequence="6" value="other"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="State" max_length="40" name="u_choice_6" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Requested" sequence="0" value="Choice 1"/>
+                <element inactive_on_update="false" label="Reserved" sequence="1" value="Choice 2"/>
+                <element inactive_on_update="false" label="Deployment Prep" sequence="2" value="Choice 3"/>
+                <element inactive_on_update="false" label="Ready for piickup" sequence="3" value="ready for piickup"/>
+                <element inactive_on_update="false" label="checked out" sequence="4" value="checked out"/>
+                <element inactive_on_update="false" label="post deplyment" sequence="5" value="post deplyment"/>
+                <element inactive_on_update="false" label="closed complete" sequence="6" value="closed complete"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="santa clara" label="Depot" max_length="40" name="u_depot" type="string">
+            <choice>
+                <element inactive_on_update="false" label="New York" sequence="0" value="new york"/>
+                <element inactive_on_update="false" label="London" sequence="1" value="london"/>
+                <element inactive_on_update="false" label="Buenos" sequence="2" value="buenos"/>
+                <element inactive_on_update="false" label="Santa Clara" sequence="3" value="santa clara"/>
+                <element inactive_on_update="false" label="Singapura" sequence="4" value="singapura"/>
+                <element inactive_on_update="false" label="Sydny" sequence="5" value="sydny"/>
+                <element inactive_on_update="false" label="Others" sequence="6" value="others"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Location to be used" max_length="40" name="u_location_to_be_used" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Other" max_length="40" name="u_other" type="string"/>
     </element>
 </database>
